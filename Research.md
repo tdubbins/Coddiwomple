@@ -16,6 +16,8 @@ During the prototypes we will search for places to travel safely avoiding corona
 
 
 ## Similar projects
+* https://www.trustroots.org/ Trustroots: travellers hospitality community
+Travellers community for sharing, hosting and getting people together. We want a world that encourages trust and adventure.
 * https://www.roam.co/ Coliving & Coworking | Roam
 Roam is a global community of coliving and coworking spaces. Sign a single lease and live in interesting places for a week or a lifetime
 * https://www.hackerparadise.org/ Learn more about Professional Development at Hacker Paradise
